@@ -1,0 +1,2 @@
+IN METHOD::<Item: void <init>()>::INVOKE::Item::r0::void <init>()::1
+IN METHOD::<Item: void <init>()>::INVOKE::any_subtype_of::Item::r0::void <init>()::1

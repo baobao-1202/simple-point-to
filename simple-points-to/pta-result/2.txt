@@ -1,0 +1,12 @@
+IN METHOD::<Example: void go()>::INVOKE::Container::$r5::void <init>()::3
+IN METHOD::<Example: void go()>::INVOKE::any_subtype_of::Container::$r5::void <init>()::3
+IN METHOD::<Example: void go()>::INVOKE::Item::$r6::void <init>()::4
+IN METHOD::<Example: void go()>::INVOKE::any_subtype_of::Item::$r6::void <init>()::4
+IN METHOD::<Example: void go()>::INVOKE::Container::r1::void setItem(Item)::5
+IN METHOD::<Example: void go()>::INVOKE::any_subtype_of::Container::r1::void setItem(Item)::5
+IN METHOD::<Example: void go()>::INVOKE::Container::$r7::void <init>()::7
+IN METHOD::<Example: void go()>::INVOKE::any_subtype_of::Container::$r7::void <init>()::7
+IN METHOD::<Example: void go()>::INVOKE::Item::$r8::void <init>()::8
+IN METHOD::<Example: void go()>::INVOKE::any_subtype_of::Item::$r8::void <init>()::8
+IN METHOD::<Example: void go()>::INVOKE::Container::r3::void setItem(Item)::9
+IN METHOD::<Example: void go()>::INVOKE::any_subtype_of::Container::r3::void setItem(Item)::9

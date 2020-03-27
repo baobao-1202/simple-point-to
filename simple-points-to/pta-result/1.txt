@@ -1,0 +1,2 @@
+IN METHOD::<Example: void <init>()>::INVOKE::Example::r0::void <init>()::1
+IN METHOD::<Example: void <init>()>::INVOKE::any_subtype_of::Example::r0::void <init>()::1

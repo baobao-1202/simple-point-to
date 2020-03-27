@@ -1,0 +1,4 @@
+IN METHOD::<Container: void <init>()>::INVOKE::Container::r0::void <init>()::1
+IN METHOD::<Container: void <init>()>::INVOKE::any_subtype_of::Container::r0::void <init>()::1
+IN METHOD::<Container: void <init>()>::INVOKE::Item::$r1::void <init>()::2
+IN METHOD::<Container: void <init>()>::INVOKE::any_subtype_of::Item::$r1::void <init>()::2
